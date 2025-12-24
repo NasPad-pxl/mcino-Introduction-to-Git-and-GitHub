@@ -16,3 +16,4 @@ Output
 
 _© 2022 XYZ, Inc._
 "Update for Pull Request task"
+Fixed a typo in the introduction section.
